@@ -5,7 +5,7 @@ Firmware for a 4-wheel-drive RC car built on an ESP32. You drive it with a PS3 c
 ## Features
 
 - 4 TT motors driven by two DRV8833 motor drivers
-- The front wheels turn at different speeds to steer the car; the rear wheels drive straight
+- The front and rear wheels turn at different speeds to steer the car; 
 - Turbo mode: hold R2 for full speed (normal driving is capped)
 - Headlights, tail lights, reversing lights, turn indicators and hazard lights
 - Engine sound and horn played through a MAX98357A I2S amplifier
